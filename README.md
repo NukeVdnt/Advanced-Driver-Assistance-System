@@ -47,3 +47,8 @@ At the heart of the system lies a neural network, which processes the video data
 ![image](https://github.com/user-attachments/assets/5fb8c1ad-8438-4c3c-b840-f1d9a4b6b073)
 
 Certificate - https://drive.google.com/file/d/1RKOswW-V6KvRBhvwlueQ6DJOChT6rUcl/view?usp=sharing
+
+### Research Papers
+
+- https://www.ijraset.com/research-paper/a-survey-paper-on-automate-a-smart-assistant
+- https://www.ijraset.com/research-paper/implementation-of-smart-vehicle-assistant-using-computer-vision
