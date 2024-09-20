@@ -1,8 +1,10 @@
-# AutoMate - Smart Vehicle Assistant using Computer Vision
+# Advanced Driver-Assistance System (AutoMate)
+
+
 
 ## Description
 
-This project aims to enhance road safety by developing a computer vision-based system that provides real-time alerts to drivers. It also equips older vehicles with modern safety features like object detection, lane detection, rear-view monitoring, blind-spot monitoring and parking assistance.
+This project presents a vehicle assistant system designed to enhance driving safety and efficiency using advanced computer vision and deep learning techniques. The system incorporates a range of features, including object detection, lane detection, reverse assist, blind spot monitoring, and parking assist.
 
 ## Motivation
 
