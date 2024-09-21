@@ -1,7 +1,7 @@
 # Advanced Driver-Assistance System (AutoMate)
 
 ## Proof of Work
-[ADAS (1).webm](https://github.com/user-attachments/assets/e9ef2fda-b0e0-41da-bf00-5fbca4e90471)
+https://github.com/user-attachments/assets/ce28c7de-b6d7-427d-b3c8-df7df0701fc3
 Footage captured on route:-
 Khadi Machine Chowk to Katraj (Pune, Maharashtra, India)
 
