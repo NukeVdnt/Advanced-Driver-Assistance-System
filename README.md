@@ -1,7 +1,7 @@
 # Advanced Driver-Assistance System (AutoMate)
 
 ## Proof of Work
-<video src="https://github.com/user-attachments/assets/fe62e83a-5732-4378-ab65-3d801c32114b" width="600" height="400" controls></video>
+<video src="https://github.com/user-attachments/assets/fe62e83a-5732-4378-ab65-3d801c32114b" width="400" height=auto controls></video>
 
 Footage captured on route:-
 Khadi Machine Chowk to Katraj (Pune, Maharashtra, India)
